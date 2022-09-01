@@ -1,3 +1,3 @@
 module spring {
-  dakj
+  System.out.println(" Hello world ");
 }
